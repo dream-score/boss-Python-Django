@@ -11,7 +11,7 @@
 
 文件树即详细功能如下
 
-![tree](.\media\tree.jpg)
+![tree](./media/tree.jpg)
 
 boss可视化分析 为django的配置文件等信息
 
@@ -37,21 +37,21 @@ static和template为前端文件
 
   
 
-![QQ截图20230518210228](.\media\1.png)
+![QQ截图20230518210228](./media/1.png)
 
 - 主页后台可视化
 
-![image-20230518210418377](.\media\2.jpg)
+![image-20230518210418377](./media/2.jpg)
 
 - 个人中心
 
-  ![image-20230518210508486](.\media\3.jpg)
+  ![image-20230518210508486](./media/3.jpg)
 
 - 可视化图表功能
 
-![image-20230518210602784](.\media\4.jpg)
+![image-20230518210602784](./media/4.jpg)
 
-![image-20230518210701843](.\media\5.jpg)
+![image-20230518210701843](./media/5.jpg)
 
 ![image-20230518210804406](./media/6.jpg)
 
